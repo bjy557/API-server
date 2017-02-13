@@ -11,5 +11,11 @@
     "url": "bjy557"
   },
   "author": "bjy557",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1"
+  }
 }
